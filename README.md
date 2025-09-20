@@ -20,7 +20,7 @@ The project was developed in collaboration with **GitHub Copilot** to practice A
 ## 🚀 Installation
 To run this project locally:  
 
-```bash
+
 # Clone the repository
 git clone https://github.com/Davide1809/Ecommerce-app.git
 
