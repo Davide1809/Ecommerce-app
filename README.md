@@ -41,7 +41,8 @@ JavaScript (Vanilla)
 GitHub Copilot (AI-assisted development)
 ## 📸 Screenshots
 
-(images/image_Ecommerce-app.png)
+[(images/image_Ecommerce-app.png)](https://github.com/Davide1809/Ecommerce-app/blob/main/images/image_Ecommerce-app.png?raw=true)<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/6614e705-9338-4f4c-8964-14517491e60f" />
+
 
 🙌 Acknowledgments
 This project was built in collaboration with GitHub Copilot as part of a learning assignment to practice modern AI-assisted development workflows.
