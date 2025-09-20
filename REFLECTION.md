@@ -22,7 +22,7 @@ I broke the problem down into smaller tasks:
 ## 2. How did your approach to asking questions change as you worked?
 Initially, I asked very general questions like "Create a cart," which gave overly complex or incomplete suggestions.  
 Later, I learned to ask **specific, targeted prompts** such as:  
-*"Create a JavaScript function that adds a product object to a cart array and updates the total price."*  
+*"Create a JavaScript file that contains an array of product objects with id, name, price, image, and description."*  
 
 [(images/copilot-cart-prompt.png)](https://github.com/Davide1809/Ecommerce-app/blob/main/images/copilot-cart-prompt.png?raw=true)<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/71dbbbc5-40e6-43fd-b0e5-65aa2b63b128" />
 
