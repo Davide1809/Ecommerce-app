@@ -28,17 +28,19 @@ git clone https://github.com/Davide1809/Ecommerce-app.git
 cd ecommerce-app
 
 No additional setup is required. Simply open index.html in your browser.
+
 💻 Usage
-Open index.html in a web browser.
-Browse the catalog of products.
-Click Add to Cart to add items.
-Open the Cart to view items and total cost.
-Use the Search Bar to filter products in real time.
+- Open index.html in a web browser.
+- Browse the catalog of products.
+- Click Add to Cart to add items.
+- Open the Cart to view items and total cost.
+- Use the Search Bar to filter products in real time.
+
 🛠️ Technology Stack
-HTML5
-CSS3
-JavaScript (Vanilla)
-GitHub Copilot (AI-assisted development)
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- GitHub Copilot (AI-assisted development)
 ## 📸 Screenshots
 
 [(images/image_Ecommerce-app.png)](https://github.com/Davide1809/Ecommerce-app/blob/main/images/image_Ecommerce-app.png?raw=true)<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/6614e705-9338-4f4c-8964-14517491e60f" />
