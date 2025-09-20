@@ -15,7 +15,8 @@ I broke the problem down into smaller tasks:
 5. Implement cart functionality
 6. Add a search bar for filtering products
   
-(images/javascript-file.png)
+[(images/javascript-file.png)](https://github.com/Davide1809/Ecommerce-app/blob/main/images/javascript-file.png?raw=true)<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/9fcdd77d-19a2-4e49-b997-207a6039d16c" />
+
 ---
 
 ## 2. How did your approach to asking questions change as you worked?
